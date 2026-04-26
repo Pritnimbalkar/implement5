@@ -1,5 +1,6 @@
 base\BaseTest.class
 stepDefinitions\LoginSteps.class
+utils\ExcelReader.class
 runners\TestRunner.class
 hooks\Hooks.class
 utils\ExcelUtility.class
